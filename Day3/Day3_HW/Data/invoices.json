@@ -1,0 +1,11 @@
+[
+{"invoice_id": "INV-101", "vendor": "ANZ Ltd", "amount": 4000, "status": "PENDING", "date": "2026-10-10"},
+{"invoice_id": "INV-102", "vendor": "KVC Ltd", "amount": 4250, "status": "pending", "date": "2026-10-11"},
+{"invoice_id": "INV-101", "vendor": "ANZ Ltd", "amount": 4000, "status": "PENDING", "date": "2026-10-10"},
+{"invoice_id": "INV-103", "vendor": "MVC Corp", "amount": -5500, "status": "PENDING", "date": "2026-10-07"},
+{"invoice_id": "INV-104", "vendor": "ABC Ltd ", "amount": 6200, "status": "PAID", "date": "2026-10-08"},
+{"invoice_id": "INV-102", "vendor": "KVC Ltd", "amount": 5000, "status": "PENDING", "date": "2026-09-11"},
+{"invoice_id": "INV-105", "vendor": "MVC Corp", "amount": 5500, "status": "PENDING", "date": "2026-10-09"},
+{"invoice_id": "INV-106", "vendor": "CTS", "amount": null, "status": "PENDING", "date": "2026-10-15"},
+{"invoice_id": "INV-107", "vendor": "ABC Ltd", "amount": 8500, "status": "PENDING", "date": "2026-10-03"}
+]
